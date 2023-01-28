@@ -12,17 +12,25 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![binary](./binary_bg.png "Binary")
+https://www.pngfind.com/mpng/iRJJTwT_binary-png-binary-black-and-white-background-transparent/
 -->
 
-<!--
-![Decoration](./github-profile.png "Decoration")  -->
-![binary](./binary_bg.png "Binary")
 
-### Hi there! I am Moami Stay ✨
+![Decoration](./github-profile.png "Decoration")
+<!-- ![binary](./binary_bg.png "Binary") -->
 
-i am currently a student at Noroff in Bergen studying Front-End development.
-What I enjoy working on the most is the design aspect of Front-End. I fin dusing programs such as Figma and Photoshop fun.
+### Well hello there! I am Moami Stay 👋 
+<sub>Certified introvert, anime&Kpop lover, night-owl, travel-enthusiast and casual gamer ✨</sub>
 
-I am just testing out stuff right now... trying to clean up my github account, it's quite messy in here.. hehe
+--- 
 
-This readme file is definitively not gonna stay like this. 
+Currently a Front-End student at Noroff Vocational School in Bergen.  
+
+I prefer doing design-work and really enjoy working with programs such as Figma and Photoshop and being creative.  
+After I finish my degree I will be on the lookout for a job preferably as a Web-Designer or something close to that field 😄  
+
+- 📫 How to reach me:  [Linked In](https://www.linkedin.com/in/regine-naas-8b109821b/ "Linked in") or [Instagram](https://www.instagram.com/just_gine/ "Instagram")   
+
+- ⚡ Fun fact: When I was 13 years old I took part in creating a artwork that the queen personally said she wanted to keep. So now the artwork is displalyed somewhere in the castle (I suppose anyway). The name of the piece was "Dronningen og Nerdrum titter på kunst".  
