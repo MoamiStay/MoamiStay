@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Decoration](./github-profile.png "Decoration")  
+<!--
+![Decoration](./github-profile.png "Decoration")  -->
+![binary](./pngfind.com-binary-png-2120777.png "Binary")
 
 ### Hi there! I am Moami Stay ✨
 
