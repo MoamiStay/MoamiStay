@@ -34,3 +34,10 @@ After I finish my degree I will be on the lookout for a job preferably as a Web-
 - 📫 How to reach me:  [Linked In](https://www.linkedin.com/in/regine-naas-8b109821b/ "Linked in") or [Instagram](https://www.instagram.com/just_gine/ "Instagram")   
 
 - ⚡ Fun fact: When I was 13 years old I took part in creating a artwork that the queen personally said she wanted to keep. So now the artwork is displalyed somewhere in the castle (I suppose anyway). The name of the piece was "Dronningen og Nerdrum titter på kunst".  
+ 
+ ---
+ 
+# Currently wanna re-do these thing:
+- WP set-up and headless CMS set-up
+- JEST & _ testing
+- BOOTSTRAP set-up and use
