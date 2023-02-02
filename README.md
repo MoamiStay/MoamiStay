@@ -39,5 +39,5 @@ After I finish my degree I will be on the lookout for a job preferably as a Web-
  
 # Currently wanna re-do these thing:
 - WP set-up and headless CMS set-up
-- JEST & _ testing
+- JEST & Cypress testing
 - BOOTSTRAP set-up and use
