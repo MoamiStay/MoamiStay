@@ -21,6 +21,17 @@ https://www.pngfind.com/mpng/iRJJTwT_binary-png-binary-black-and-white-backgroun
 ![Decoration](./github-profile.png "Decoration")
 <!-- ![binary](./binary_bg.png "Binary") -->
 
+  <br>
+  <br> 
+  
+# !! I forgot to put the repo link for the portfoliopage in the delivery !!
+# Here it is ---> https://github.com/MoamiStay/Portfolio_2.0 <---  
+
+  <br>
+  <br>
+  <br>
+  
+  
 ### Well hello there! I am Moami Stay 👋 
 <sub>Certified introvert, anime&Kpop lover, night-owl, travel-enthusiast and casual gamer ✨</sub>
 
