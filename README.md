@@ -19,25 +19,14 @@ https://www.pngfind.com/mpng/iRJJTwT_binary-png-binary-black-and-white-backgroun
 
 
 ![Decoration](./github-profile.png "Decoration")
-<!-- ![binary](./binary_bg.png "Binary") -->
-
-  <br>
-  <br> 
-  
-# !! I forgot to put the repo link for the portfoliopage in the delivery !!
-# Here it is ---> https://github.com/MoamiStay/Portfolio_2.0 <---  
-
-  <br>
-  <br>
-  <br>
-  
+<!-- ![binary](./binary_bg.png "Binary") -->  
   
 ### Well hello there! I am Moami Stay 👋 
 <sub>Certified introvert, anime&Kpop lover, night-owl, travel-enthusiast and casual gamer ✨</sub>
 
 --- 
 
-Currently a Front-End student at Noroff Vocational School in Bergen.  
+I got a Front-End degree from Noroff Vocational School in Bergen.  
 
 I prefer doing design-work and really enjoy working with programs such as Figma and Photoshop and being creative.  
 After I finish my degree I will be on the lookout for a job preferably as a Web-Designer or something close to that field 😄  
@@ -45,10 +34,3 @@ After I finish my degree I will be on the lookout for a job preferably as a Web-
 - 📫 How to reach me:  [Linked In](https://www.linkedin.com/in/regine-naas-8b109821b/ "Linked in") or [Instagram](https://www.instagram.com/just_gine/ "Instagram")   
 
 - ⚡ Fun fact: When I was 13 years old I took part in creating a artwork that the queen personally said she wanted to keep. So now the artwork is displalyed somewhere in the castle (I suppose anyway). The name of the piece was "Dronningen og Nerdrum titter på kunst".  
- 
- ---
- 
-# Currently wanna re-do these thing:
-- WP set-up and headless CMS set-up
-- JEST & Cypress testing
-- BOOTSTRAP set-up and use
