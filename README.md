@@ -22,7 +22,7 @@ https://www.pngfind.com/mpng/iRJJTwT_binary-png-binary-black-and-white-backgroun
 <!-- ![binary](./binary_bg.png "Binary") -->  
   
 ### Well hello there! I am Moami Stay 👋 
-<sub>Certified introvert, anime&Kpop lover, night-owl, travel-enthusiast and casual gamer ✨</sub>
+<sub>Certified introvert, anime&Kpop lover, night-owl, travel-enthusiast and dog mom ✨</sub>
 
 --- 
 
