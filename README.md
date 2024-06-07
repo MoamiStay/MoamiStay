@@ -18,7 +18,7 @@ https://www.pngfind.com/mpng/iRJJTwT_binary-png-binary-black-and-white-backgroun
 -->
 
 
-![Decoration](./mylogo.png "Decoration")
+![Decoration](./mylogo2.png "Decoration")
 <!-- ![binary](./binary_bg.png "Binary") -->  
   
 ### Well hello there! I am Moami Stay 👋 
