@@ -49,3 +49,5 @@ was part of the 2007 childrens art collection gifted to the queen.
 </br>
 
 ## Currently on the lookout for a job as Front-End developer or UI/UX designer 😄 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MoamiStay&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
