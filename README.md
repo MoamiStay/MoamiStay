@@ -7,18 +7,33 @@
 
 ### Background
 
-I got a Front-End degree from Noroff Vocational School in Bergen, 2023.  
-
-Some things I know:  
-HTML, CSS/SCSS, JS, React,  
-Wordpress (+ WP Headless CMS), Tailwind, Antd, Bootstrap, git, MongoDB, MySQL  
+Graduated at Noroff Vocational School in Bergen, 2023, with a  
+degree in Front-End Development.
 
 I really enjoy design-work, prototyping and being creative in Figma as well as Photoshop.  
 
+Main skills  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,styledcomponents,vite,webpack,sass,bootstrap,tailwind,wordpress)](https://skillicons.dev)
+
+Design  
+[![My Skills](https://skillicons.dev/icons?i=figma,ps)](https://skillicons.dev)
+
+
+Databases  
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
+
+Testing  
+[![My Skills](https://skillicons.dev/icons?i=cypress,jest)](https://skillicons.dev)
+
+Other  
+[![My Skills](https://skillicons.dev/icons?i=git,netlify,postman,codepen,)](https://skillicons.dev)
+
+
 </br>
 
-### Currently working on
-Learning Typescript w/Angular
+### Currently learning 
+[![My Skills](https://skillicons.dev/icons?i=typescript,angular)](https://skillicons.dev)  
+Typescript & Angular 
 
 </br>
  
