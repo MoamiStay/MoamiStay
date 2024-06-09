@@ -10,6 +10,7 @@
 Graduated at Noroff Vocational School in Bergen, 2023, with a  
 degree in Front-End Development.
 
+Building projects in React currently.  
 I really enjoy design-work, prototyping and being creative in Figma as well as Photoshop.  
 
 Main skills  
